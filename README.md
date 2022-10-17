@@ -2,7 +2,7 @@
 ## Kelas     : TI - 3C
 ## No. Absen : 18
 
-Tugas : Mengerjakan CRUDSqLite menggunakan android studio
+Tugas : Mengerjakan Android Room Database menggunakan android studio
 
 Tampilan Awal
 ![Screenshot room](images/01.png)
